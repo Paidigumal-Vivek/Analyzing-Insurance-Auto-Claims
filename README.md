@@ -37,6 +37,35 @@ This project analyzes auto insurance claims data to help an insurance company op
 - High-risk claim patterns were analyzed.
 - Pricing recommendations were provided to improve the company's profitability.
 
+## Visualisations
+
+- Employee Salary Distribution by Status (Left the Company -Yes/No)
+! [Employee Salary Distribution by Status (Left the Company -Yes/No)](https://github.com/Paidigumal-Vivek/Analyzing-Insurance-Auto-Claims/blob/main/visualisation%201.png)
+
+- Average Customer Lifetime Value by Policy and Gender
+
+![Average Customer Lifetime Value by Policy and Gender](https://github.com/Paidigumal-Vivek/Analyzing-Insurance-Auto-Claims/blob/main/visualisation%202.png)
+
+- Total Claims by Policy Type
+
+![Total Claims by Policy Type](https://github.com/Paidigumal-Vivek/Analyzing-Insurance-Auto-Claims/blob/main/visualisation%203.png)
+
+- Income vs Customer Lifetime Value
+
+![Income vs Customer Lifetime Value](https://github.com/Paidigumal-Vivek/Analyzing-Insurance-Auto-Claims/blob/main/visualisation%204.png)
+
+- Average Number of Claims by Marital Status
+
+![Average Number of Claims by Marital Status](https://github.com/Paidigumal-Vivek/Analyzing-Insurance-Auto-Claims/blob/main/visualisation%205.png)
+
+- Distribution of Monthly Premiums by Vechile Class
+
+![Distribution of Monthly Premiums by Vechile Class](https://github.com/Paidigumal-Vivek/Analyzing-Insurance-Auto-Claims/blob/main/visualisation%206.png)
+
+- Policy Tenure vs Number of Claims
+
+![Policy Tenure vs Number of Claims](https://github.com/Paidigumal-Vivek/Analyzing-Insurance-Auto-Claims/blob/main/visualisation%207.png)
+
 ## Future Enhancements
 - Integrating **deep learning** models for fraud detection.
 - Developing a **real-time dashboard** for claim monitoring.
