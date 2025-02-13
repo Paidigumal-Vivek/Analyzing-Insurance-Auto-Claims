@@ -12,6 +12,7 @@ This project analyzes auto insurance claims data to help an insurance company op
 ## Dataset
 - The dataset includes fields such as **claim amount, policy type, customer demographics, accident details, and settlement amounts**.
 - Missing values and outliers are handled as part of data preprocessing.
+- [Auto claims data](https://gmubusinessanalytics.netlify.app/data/claims_df.rds)
 
 ## Methodology
 1. **Data Preprocessing**
