@@ -1,4 +1,4 @@
-# Analyzing Insurance Auto Claims
+# Auto Insurance Claim Analysis
 
 ## Project Overview
 This project analyzes auto insurance claims data to help an insurance company optimize its pricing strategy and improve profitability. The dataset consists of claims filed by customers from the southwest and western regions of the United States. The goal is to identify trends, assess risks, and make data-driven recommendations to enhance business outcomes.
